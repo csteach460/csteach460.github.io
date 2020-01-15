@@ -28,10 +28,10 @@ If you have any questions on the following assessments, please [contact](/contac
     * explain implemented differences throughout semester
       * where and why did you update the project?
       * benefits of updates
-    * clearly detail design and development process
-      * outline testing, prototypes &c.
-      * explain pros and cons of existing interface
-      * contrast old and new interface
+  	* explain design decisions
+  	  * describe patterns used in design and development of app 
+  	  * structures, organisation of code and logic
+      * explain testing and analysis
       * ...
   * work may be conducted individually or in groups (max. 4 persons per group)
     * group report must clearly define each student's work and contributions, where applicable
