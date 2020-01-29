@@ -20,12 +20,45 @@ summary: weekly assignment for COMP 460
 
 Course assignments will be updated during the semester.
 
+##### Week 3 - 28th January 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Algorithms and Data Structures
+    * [Big O - Intro](/assets/docs/extras/notes-alg-ds-big-o-intro.pdf)
+    * [Array and Linked Lists - Intro](/assets/docs/extras/notes-alg-ds-arrays-linkedlists-intro.pdf)
+  * extras - JavaScript
+    * [JS Intro](/assets/docs/extras/javascript/js-intro.pdf)
+    * [JS Core](/assets/docs/extras/javascript/js-core.pdf)
+    * [JS Logic](/assets/docs/extras/javascript/js-logic.pdf)
+  * extras - Python
+    * [Install and Setup - OS X](/assets/docs/extras/python/python-install-setup-osx.pdf)
+    * [Install and Setup - Windows](/assets/docs/extras/python/python-install-setup-windows.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code examples,
+  * [GitHub - Source](https://github.com/csteach460/source)
+* Please consider the following for the start of next week's class
+  * review the standard *Snake* game, e.g.
+    * [Snake Video Game - Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
+  * then, using **pseudocode**
+    * define logic for this game to include the following
+      * snake adds, deletes squares to modify size
+      * reset the snake for a new game
+      * score maintained for size of snake
+    * use *linked list* for the snake in the game
+  * how will the following be used in this game
+    * accessors/selectors
+    * mutators
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 ##### Week 2 - 21st January 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
-  * [Algorithms & Data Structures - Basics](/assets/docs/extras/notes-alg-ds-basic.pdf)
-  * [Algorithms & Data Structures - Intro](/assets/docs/extras/notes-alg-ds-intro.pdf)
+  * extras - Algorithms and Data Structures
+    * [Algorithms & Data Structures - Basics](/assets/docs/extras/notes-alg-ds-basic.pdf)
+    * [Algorithms & Data Structures - Intro](/assets/docs/extras/notes-alg-ds-intro.pdf)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's source code example,
   * [GitHub - Source](https://github.com/csteach460/source)
