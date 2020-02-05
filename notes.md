@@ -20,6 +20,16 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
+#### Week 4 - 4th February 2020
+  * [course](/assets/docs/2020/comp460-week4.pdf)
+  * extras - JavaScript
+    * [JS Collections - Array](/assets/docs/extras/javascript/js-collections-array.pdf)
+    * [JS Iterator and Iterable](/assets/docs/extras/javascript/js-iterator-iterable.pdf)
+    * [JS Prototype](/assets/docs/extras/javascript/js-prototype.pdf)
+    * [JS Proxy](/assets/docs/extras/javascript/js-proxy.pdf)
+  * extras - various
+    * [System and Memory Structure](/assets/docs/extras/various/notes-alg-ds-sys-mem-structure.pdf)
+
 ##### Week 3 - 28th January 2020
   * [course](/assets/docs/2020/comp460-week3.pdf)
   * extras - Algorithms and Data Structures

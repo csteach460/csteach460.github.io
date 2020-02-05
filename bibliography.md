@@ -22,6 +22,19 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
+#### Week 4 - 4th February 2020
+
+* [Call Stack - YouTube](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
+* [MDN - Arrays - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* [Process Manager - YouTube](https://www.youtube.com/watch?v=bS3QuOQgUu8)
+* [Process Manager - Algorithms and Management - YouTube](https://www.youtube.com/watch?v=7FRW4iGjLrc)
+* [Process Manager - Scheduler - YouTube](https://www.youtube.com/watch?v=bS3QuOQgUu8)
+* [Recursion - Java - YouTube](https://www.youtube.com/watch?v=KEEKn7Me-ms)
+* [Recursion and Fun - JavaScript - YouTube](https://youtu.be/k7-N8R0-KY4)
+* [Sort an Array with Comparator - Java - YouTube](https://www.youtube.com/watch?v=SzzSwvQfKyk)
+* [Stacks - Python - YouTube](https://youtu.be/NKmasqr_Xkw)
+* [Text based game Vexed with linked list - YouTube](https://www.youtube.com/watch?v=l96Txo9XDkY)
+
 #### Week 3 - 28th January 2020
 
 * [Big O Notation - YouTube](https://www.youtube.com/watch?v=v4cd1O4zkGw)
@@ -29,10 +42,10 @@ Course bibliography will be updated during the semester.
 * [Linked Lists - Java - YouTube](https://www.youtube.com/watch?v=njTh_OwMljA)
 * [Linked Lists - Python- YouTube](https://www.youtube.com/watch?v=6r62JV_V9SU)
 * [Lists vs Arrays, NumPy - YouTube](https://www.youtube.com/watch?v=BrZ5OoYzfN8)
-* [MDN - JavaScript - Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
-* [MDN - JavaScript - Prototype](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
-* [MDN - JavaScript - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
-* [MDN - JavaScript - Symbol.iterator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator)
+* [MDN - Loops and Iteration - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+* [MDN - Prototype - JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+* [MDN - Proxy - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+* [MDN - Symbol.iterator - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator)
 
 #### Week 2 - 21st January 2020
 
@@ -42,8 +55,8 @@ Course bibliography will be updated during the semester.
 * [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation)
 * [Big O Algorithmic Complexity Cheatsheet](https://www.bigocheatsheet.com/)
 * [Logarithms Explained - YouTube](https://www.youtube.com/watch?v=zzu2POfYv0Y)
-* [MDN - JavaScript - Class](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
-* [MDN - JavaScript - Symbol](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
+* [MDN - Class - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+* [MDN - Symbol - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol)
 * [Ted-Ed - A clever way to estimate enormous numbers - YouTube](https://www.youtube.com/watch?v=0YzvupOX8Is)
 * [What is Big O? - YouTube](https://www.youtube.com/watch?v=MyeV2_tGqvw)
 
