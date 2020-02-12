@@ -22,6 +22,10 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
+#### Week 5 - 11th February 2020
+
+* N/A - Presentations
+
 #### Week 4 - 4th February 2020
 
 * [Call Stack - YouTube](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
