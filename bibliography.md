@@ -22,6 +22,18 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
+#### Week 6 - 18th February 2020
+
+* [!!Con 2019- Tail Call Optimization: The Musical!! - YouTube](https://youtu.be/-PX0BV9hGZY)
+* [Event Driven Architecture - YouTube](https://youtu.be/XohG9yQe3Ps)
+* [MDN - Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* [MDN - Prototype](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes)
+* [MDN - Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy)
+* [Memory Manager - YouTube](https://youtu.be/qdkxXygc3rE)
+* [Recursion and Fun - JavaScript - YouTube](https://youtu.be/k7-N8R0-KY4)
+* [Recursion and the Call Stack - Java - YouTube](https://youtu.be/jRcll9qY6b0)
+* [Stacks - YouTube](https://youtu.be/NKmasqr_Xkw)
+
 #### Week 5 - 11th February 2020
 
 * N/A - Presentations

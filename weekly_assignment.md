@@ -20,6 +20,46 @@ summary: weekly assignment for COMP 460
 
 Course assignments will be updated during the semester.
 
+#### Week 6 - 18th February 2020
+
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 9 - Red Kitchen](https://forms.gle/cC1AsSnC9JtUZazH7)
+* Complete this peer review form by **Tuesday 25th February 2020** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the existing **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Algorithms and Data Structures
+    * [Algorithms & Data Structures - Recursion](/assets/docs/extras/notes-alg-ds-recursion.pdf)
+  * extras - JavaScript
+    * [JS Collections - Stack](/assets/docs/extras/javascript/js-collections-stack.pdf)
+    * [JS Getters and Setters](/assets/docs/extras/javascript/js-getters-setters.pdf)
+    * [JS Prototype](/assets/docs/extras/javascript/js-prototype.pdf)
+    * [JS Proxy](/assets/docs/extras/javascript/js-proxy.pdf)
+  * extras - Node.js
+    * [Node - Outline](/assets/docs/extras/node/nodejs-outline.pdf)
+    * [Node - Express Outline](/assets/docs/extras/node/nodejs-express-outline.pdf)
+    * [Node - Express Starter](/assets/docs/extras/node/nodejs-express-starter.pdf)
+    * [Node - Mongo Outline](/assets/docs/extras/node/nodejs-outline.pdf)
+    * [Node - Update](/assets/docs/extras/node/nodejs-update.pdf)
+  * extras - Patterns
+    * [Observer](/assets/docs/extras/patterns/observer-pattern.pdf)
+    * [Pub/Sub](/assets/docs/extras/patterns/pubsub-pattern.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code examples,
+  * [GitHub - Source](https://github.com/csteach460/source)
+* Please contribute to this week’s class discussion on Slack, *#discussion-week6*, for the following project, [Dear Data](http://www.dear-data.com/all)
+  * choose a week or weeks to review - preferably ones you found interesting...
+    * how has the data been organised and presented?
+    * did the data inform the presentation and visualisation?
+    * which data structure/s would be best suited for your chosen data? why?
+    * how would you search and sort this data?
+    * are there patterns to the data to help define chosen algorithm/s?
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 5 - 11th February 2020
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations
