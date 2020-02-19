@@ -23,7 +23,7 @@ Course assignments will be updated during the semester.
 #### Week 6 - 18th February 2020
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 9 - Red Kitchen](https://forms.gle/cC1AsSnC9JtUZazH7)
+  * [Group 9 - Color on the Web](https://forms.gle/cC1AsSnC9JtUZazH7)
 * Complete this peer review form by **Tuesday 25th February 2020** at the latest
   * please complete these forms individually, and **NOT** as a project group
   * do **NOT** complete a review for your own group
