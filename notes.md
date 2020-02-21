@@ -33,7 +33,7 @@ Course notes will be updated during the semester.
     * [Node - Outline](/assets/docs/extras/node/nodejs-outline.pdf)
     * [Node - Express Outline](/assets/docs/extras/node/nodejs-express-outline.pdf)
     * [Node - Express Starter](/assets/docs/extras/node/nodejs-express-starter.pdf)
-    * [Node - Mongo Outline](/assets/docs/extras/node/nodejs-outline.pdf)
+    * [Node - Mongo Outline](/assets/docs/extras/node/nodejs-mongo-outline.pdf)
     * [Node - Update](/assets/docs/extras/node/nodejs-update.pdf)
   * extras - Patterns
     * [Observer](/assets/docs/extras/patterns/observer-pattern.pdf)
