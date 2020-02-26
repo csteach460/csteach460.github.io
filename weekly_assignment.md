@@ -20,6 +20,31 @@ summary: weekly assignment for COMP 460
 
 Course assignments will be updated during the semester.
 
+<!-- * extras - Algorithms and Data Structures
+    * [Algorithms & Data Structures - Binary Search](/assets/docs/extras/notes-alg-ds-binary-search.pdf)
+    * [Algorithms & Data Structures - Binary Search Trees](/assets/docs/extras/notes-alg-ds-binary-search-tree.pdf)
+    * [Algorithms & Data Structures - Binary Search Trees Usage](/assets/docs/extras/notes-alg-ds-binary-search-tree-usage.pdf) -->
+
+##### Week 7 - 25th Febraury 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Datastores
+    * [MongoDB & Native Driver](/assets/docs/extras/datastores/mongodb/data-stores-apis.pdf)
+  * extras - JavaScript
+    * [JS Generators & Promises](/assets/docs/extras/javascript/js-generators-promises.pdf)
+  * extras - Node.js
+    * [Node - Todo API app](/assets/docs/extras/node/node-api-todos/node-todos-api.pdf)
+    * [Node - Testing Todos API](/assets/docs/extras/node/node-api-todos/testing-todos-api.pdf)
+    * [Node - Heroku, MongoDB, & Postman](/assets/docs/extras/node/node-api-todos/heroku-mongo-postman.pdf)
+* * Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code examples,
+  * [GitHub - Source](https://github.com/csteach460/source)
+* Please continue development of your project application towards *Week 10 - DEV Week* demo and presentations
+
+Any questions, please let me know.
+
+Enjoy your week and Spring Break.
+
 #### Week 6 - 18th February 2020
 
 * Complete the following peer review forms individually for the DEV Week projects and presentations

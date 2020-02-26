@@ -57,6 +57,7 @@ Course links will be updated during the semester.
 * [A clever way to estimate enormous numbers - YouTube](https://www.youtube.com/watch?v=0YzvupOX8Is)
 * [Big O Notation - YouTube](https://www.youtube.com/watch?v=v4cd1O4zkGw)
 * [Call Stack - YouTube](https://www.youtube.com/watch?v=Q2sFmqvpBe0)
+* [Divide and Conquer - YouTube](https://www.youtube.com/watch?v=11V7Ik0IBHU)
 * [Event Driven Architecture - YouTube](https://youtu.be/XohG9yQe3Ps)
 * [Iterators vs Iterables - Python - YouTube](https://www.youtube.com/watch?v=vtmiYo_600M)
 * [Linked Lists - Java - YouTube](https://www.youtube.com/watch?v=njTh_OwMljA)
@@ -64,13 +65,17 @@ Course links will be updated during the semester.
 * [Lists vs Arrays, NumPy - YouTube](https://www.youtube.com/watch?v=BrZ5OoYzfN8)
 * [Logarithms Explained - YouTube](https://www.youtube.com/watch?v=zzu2POfYv0Y)
 * [Memory Manager - YouTube](https://youtu.be/qdkxXygc3rE)
+* [Memoisation - YouTube](https://www.youtube.com/watch?v=P8Xa2BitN3I&t=18s)
+* [Quicksort - Java - YouTube](https://www.youtube.com/watch?v=SLauY6PpjW4)
 * [Recursion - Java - YouTube](https://www.youtube.com/watch?v=KEEKn7Me-ms)
 * [Recursion & Fibonacci - YouTube](https://www.youtube.com/watch?v=KEEKn7Me-ms)
 * [Recursion and Fun - JavaScript - YouTube](https://youtu.be/k7-N8R0-KY4)
 * [Recursion and the Call Stack - Java - YouTube](https://youtu.be/jRcll9qY6b0)
 * [Stacks - Python - YouTube](https://youtu.be/NKmasqr_Xkw)
 * [Story of Maths - YouTube](https://www.youtube.com/watch?v=pb0MSMGSIeY)
+* [Trees - Java - YouTube](https://www.youtube.com/watch?v=oSWTXtMglKE)
 * [What is Big O? - YouTube](https://www.youtube.com/watch?v=MyeV2_tGqvw)
+
 
 ***
 

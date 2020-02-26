@@ -22,6 +22,18 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
+<!-- * [Trees - Java - YouTube](https://www.youtube.com/watch?v=oSWTXtMglKE) -->
+
+#### Week 7 - 25th February 2020
+
+* [Algorithms - YouTube](https://www.youtube.com/watch?v=Q9HjeFD62Uk)
+* [Divide and Conquer - YouTube](https://www.youtube.com/watch?v=11V7Ik0IBHU)
+* [Memoisation - YouTube](https://www.youtube.com/watch?v=P8Xa2BitN3I&t=18s)
+* [Quicksort - Java - YouTube](https://www.youtube.com/watch?v=SLauY6PpjW4)
+* [Recursion & Fibonacci - YouTube](https://www.youtube.com/watch?v=KEEKn7Me-ms)
+* [Recursion and Fun - JavaScript - YouTube](https://youtu.be/k7-N8R0-KY4)
+* [Recursion and the Call Stack - Java - YouTube](https://youtu.be/jRcll9qY6b0)
+
 #### Week 6 - 18th February 2020
 
 * [!!Con 2019- Tail Call Optimization: The Musical!! - YouTube](https://youtu.be/-PX0BV9hGZY)
