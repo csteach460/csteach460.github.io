@@ -22,7 +22,21 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
-<!-- * [Trees - Java - YouTube](https://www.youtube.com/watch?v=oSWTXtMglKE) -->
+#### Week 9 - 10th March 2020
+
+
+* [Quicksort - Java - YouTube](https://www.youtube.com/watch?v=SLauY6PpjW4)
+* [So how does the browser actually render a website - YouTube](https://www.youtube.com/watch?v=SmE4OwHztCc)
+* [Symbol Table API - YouTube](https://www.youtube.com/watch?v=ZmBIA0E7t6s&list=PL1l6HESgVLWdRm7qHz6gWOUhdZrtSAxOB&index=15&t=0s)
+* [Trees - Balancing - YouTube](https://www.youtube.com/watch?v=q4fnJZr8ztY)
+* [Trees - Deletion - YouTube](https://www.youtube.com/watch?v=g4y2h70D6Nk)
+* [Trees - In-Order Traversal - YouTube](https://www.youtube.com/watch?v=5dySuyZf9Qg)
+* [Trees - Java - YouTube](https://www.youtube.com/watch?v=oSWTXtMglKE)
+* [Trees - Max height using recursion - YouTube](https://www.youtube.com/watch?v=YT1994beXn0)
+
+#### Week 8 - 3rd March 2020
+
+* N/A - Spring Break
 
 #### Week 7 - 25th February 2020
 

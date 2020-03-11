@@ -20,10 +20,29 @@ summary: weekly assignment for COMP 460
 
 Course assignments will be updated during the semester.
 
-<!-- * extras - Algorithms and Data Structures
-    * [Algorithms & Data Structures - Binary Search](/assets/docs/extras/notes-alg-ds-binary-search.pdf)
-    * [Algorithms & Data Structures - Binary Search Trees](/assets/docs/extras/notes-alg-ds-binary-search-tree.pdf)
-    * [Algorithms & Data Structures - Binary Search Trees Usage](/assets/docs/extras/notes-alg-ds-binary-search-tree-usage.pdf) -->
+##### Week 9 - 10th March 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - Algorithms and Data Structures
+      * [Algorithms & Data Structures - Binary Search](/assets/docs/extras/notes-alg-ds-binary-search.pdf)
+      * [Algorithms & Data Structures - Binary Search Tree](/assets/docs/extras/notes-alg-ds-binary-search-tree.pdf)
+      * [Algorithms & Data Structures - Binary Search Tree Usage](/assets/docs/extras/notes-alg-ds-binary-search-tree-usage.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code examples,
+  * [GitHub - Source](https://github.com/csteach460/source)
+* Please start to prepare your DEV week group project and demonstration, as outlined in this week's class
+  * further details can be found on pages 2 and 3 of this week's class [notes](/assets/docs/2020/spring/comp460-week9.pdf)
+  * details are also available in the [Coursework](/coursework/#assessment3) section of this site
+* Please add updates on your group's project development to the course's Trello group,
+  * [Week 9 - DEV Week prep](https://trello.com/b/PmvxyOna/week-9-dev-week-prep)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
+##### Week 8 - 3rd March 2020
+
+* N/A - Spring Break
 
 ##### Week 7 - 25th Febraury 2020
 
@@ -36,7 +55,7 @@ Course assignments will be updated during the semester.
     * [Node - Todo API app](/assets/docs/extras/node/node-api-todos/node-todos-api.pdf)
     * [Node - Testing Todos API](/assets/docs/extras/node/node-api-todos/testing-todos-api.pdf)
     * [Node - Heroku, MongoDB, & Postman](/assets/docs/extras/node/node-api-todos/heroku-mongo-postman.pdf)
-* * Review this week's [bibliography](/bibliography) links and material
+* Review this week's [bibliography](/bibliography) links and material
 * Review this week's source code examples,
   * [GitHub - Source](https://github.com/csteach460/source)
 * Please continue development of your project application towards *Week 10 - DEV Week* demo and presentations

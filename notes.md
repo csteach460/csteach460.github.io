@@ -20,10 +20,15 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
-<!-- * extras - Algorithms and Data Structures
+#### Week 9 - 10th March 2020
+  * [course](/assets/docs/2020/comp460-week9.pdf)
+  * extras - Algorithms and Data Structures
     * [Algorithms & Data Structures - Binary Search](/assets/docs/extras/notes-alg-ds-binary-search.pdf)
-    * [Algorithms & Data Structures - Binary Search Trees](/assets/docs/extras/notes-alg-ds-binary-search-tree.pdf)
-    * [Algorithms & Data Structures - Binary Search Trees Usage](/assets/docs/extras/notes-alg-ds-binary-search-tree-usage.pdf) -->
+    * [Algorithms & Data Structures - Binary Search Tree](/assets/docs/extras/notes-alg-ds-binary-search-tree.pdf)
+    * [Algorithms & Data Structures - Binary Search Tree Usage](/assets/docs/extras/notes-alg-ds-binary-search-tree-usage.pdf)
+
+#### Week 8 - 3rd March 2020
+  * N/A - Spring Break
 
 #### Week 7 - 25th February 2020
   * [course](/assets/docs/2020/comp460-week7.pdf)
