@@ -20,6 +20,12 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
+##### Week 10 - 17th March 2020
+
+  * [course](/assets/docs/2020/comp460-week10.pdf)
+  * extras - Algorithms and Data Structures
+    * [Algorithms & Data Structures - Hash Tables - Part 1](/assets/docs/extras/notes-alg-ds-hash-tables-part1.pdf)
+
 #### Week 9 - 10th March 2020
   * [course](/assets/docs/2020/comp460-week9.pdf)
   * extras - Algorithms and Data Structures

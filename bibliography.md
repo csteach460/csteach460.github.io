@@ -22,8 +22,16 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
-#### Week 9 - 10th March 2020
+##### Week 10 - 17th March 2020
 
+* [Hash tables - Java - YouTube](https://www.youtube.com/watch?v=shs0KM3wKv8)
+* [Hash tables - real-world usage - YouTube](https://www.youtube.com/watch?v=sTkWBIUH3Eo)
+* [The Stable Marriage Problem](http://www.cs.columbia.edu/~evs/intro/stable/writeup.html)
+* [Stable Marriage Problem - YouTube](https://www.youtube.com/watch?v=Q9HjeFD62Uk)
+* [TED - What is the Internet? - YouTube](https://www.youtube.com/watch?v=XE_FPEFpHt4)
+* [What is DNS? - YouTube](https://www.youtube.com/watch?v=HsQOWfc3Wic)
+
+#### Week 9 - 10th March 2020
 
 * [Quicksort - Java - YouTube](https://www.youtube.com/watch?v=SLauY6PpjW4)
 * [So how does the browser actually render a website - YouTube](https://www.youtube.com/watch?v=SmE4OwHztCc)
