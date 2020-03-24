@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/indices/categories/index</loc>
-<lastmod>2020-03-16T23:24:51-05:00</lastmod>
+<lastmod>2020-03-23T23:06:45-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/index</loc>
-<lastmod>2020-03-16T23:24:51-05:00</lastmod>
+<lastmod>2020-03-23T23:06:45-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/posts/index</loc>
-<lastmod>2020-03-16T23:24:51-05:00</lastmod>
+<lastmod>2020-03-23T23:06:45-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/tags/index</loc>
-<lastmod>2020-03-16T23:24:51-05:00</lastmod>
+<lastmod>2020-03-23T23:06:45-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/new-semester</loc>
@@ -53,6 +53,10 @@
 <lastmod>2020-03-10T00:00:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/week-10-update</loc>
+<lastmod>2020-03-17T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -84,6 +88,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/timetable/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/videos/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/weekly_assignment/</loc>
@@ -235,7 +242,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/docs/extras/notes-alg-ds-hash-tables-part2.pdf</loc>
-<lastmod>2020-03-16T23:23:19-05:00</lastmod>
+<lastmod>2020-03-19T17:15:36-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/docs/extras/notes-alg-ds-intro.pdf</loc>

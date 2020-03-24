@@ -20,6 +20,46 @@ summary: weekly assignment for COMP 460
 
 Course assignments will be updated during the semester.
 
+#### Week 11 - 24th March 2020
+
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Color on the Web](https://forms.gle/99Ty4PeEjB19bkQb7)
+  * [Group 2 - Connectivity Hub](https://forms.gle/PDdxEfxXtZEGKV77A)
+  * [Group 3 - Experiment Planner](https://forms.gle/Z7iFQCSQwNAfcj956)
+  * [Group 4 - Housing Price Estimator](https://forms.gle/uFxDF7f6dUdLpAgK9)
+  * [Group 5 - Log File Analyzer](https://forms.gle/G5bABzF8eh64wku39)
+  * [Group 6 - My Little Dictionary](https://forms.gle/r6nRVhRroCD1rQhd9)
+  * [Group 7 - Recipe Aggregator](https://forms.gle/m7fVoapdYfiF7qJP8)
+  * [Group 8 - Social Stuff](https://forms.gle/opGoUZX7tcaF1DG3A)
+  * [Group 9 - Unity Game](https://forms.gle/ViByF2pb2FTEQidW6)
+  * [Group 10 - Wayfinder - Neurodiversity Occupational Helper App](https://forms.gle/R2NXByv2NVqYzWZy8)
+* Complete these peer review forms by **Tuesday 31st March 2020** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week11-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please ensure you've added your presentation files, notes, and video (where appropriate) &c. to the following board on Trello,
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/sQpyK2bU/week-10-presentation-dev-files)
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 10 - Project Contributions](https://trello.com/b/EmrnQRxM/week-10-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please ensure you've now added your contribution details to this board
+* Please contribute to this week's class discussion on Slack, **#discussion-week11**, by adding the following information,
+  * choose two favourite data visualisations you've recently seen in an article, website, mobile application &c.
+    * why did you choose these visualisations?
+    * what did you like or dislike about each visualisation?
+    * outline the underlying data source
+      * e.g. a census or opinion poll, geographical data, and so on
+    * did the visualisation help improve understanding of the data?
+    * how would you structure this data in a sample application?
+      * e.g. data structure/s
+    * how would you query this data in a sample application?
+      * e.g. algorithms for search, sort, filter &c.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 10 - 17th March 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
