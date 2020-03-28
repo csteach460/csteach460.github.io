@@ -30,7 +30,7 @@ Course assignments will be updated during the semester.
   * [Group 5 - Log File Analyzer](https://forms.gle/G5bABzF8eh64wku39)
   * [Group 6 - My Little Dictionary](https://forms.gle/r6nRVhRroCD1rQhd9)
   * [Group 7 - Recipe Aggregator](https://forms.gle/m7fVoapdYfiF7qJP8)
-  * [Group 8 - Social Stuff](https://forms.gle/opGoUZX7tcaF1DG3A)
+  * [Group 8 - Social Stuff - BlueDitt](https://forms.gle/opGoUZX7tcaF1DG3A)
   * [Group 9 - Unity Game](https://forms.gle/ViByF2pb2FTEQidW6)
   * [Group 10 - Wayfinder - Neurodiversity Occupational Helper App](https://forms.gle/R2NXByv2NVqYzWZy8)
 * Complete these peer review forms by **Tuesday 31st March 2020** at the latest
