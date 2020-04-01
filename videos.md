@@ -9,7 +9,7 @@ categories:
 
 tags: videos material
 published: true
-summary: course videos and material for COMP 363
+summary: course videos and material for COMP 460
 ---
 
 Course videos and material will be added to this page during the semester.
