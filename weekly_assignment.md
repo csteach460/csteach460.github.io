@@ -33,7 +33,7 @@ Course assignments will be updated during the semester.
 * Review this week's [videos and material](/videos)
 * Review this week's [bibliography](/bibliography) links and material
 * Review this week's source code examples,
-  * [GitHub - Source](https://github.com/csteach363/source/tree/master/week12)
+  * [GitHub - Source](https://github.com/csteach460/source/tree/master/week12)
 * Please continue to prepare your group project and demonstration
 * Please contribute to this week's class discussion on Slack, **#discussion-week12**, by adding the following information,
   * choose two recent examples of data structured using a **graph**
