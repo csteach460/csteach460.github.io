@@ -20,6 +20,22 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
+##### Week 14 - 14th April 2020
+
+  * course
+    * [course](/assets/docs/2020/comp460-week14.pdf)
+  * extras - final report outline
+    * [Final Report Outline](/assets/docs/2020/comp460-final-report-outline-2020.pdf)
+  * extras - algorithms and data structures
+    * [Algorithms & Data Structures - Greedy Algorithms - Part 1](/assets/docs/extras/notes-alg-ds-greedy-algs-part1.pdf)
+    * [Algorithms & Data Structures - Greedy Algorithms - Part 2](/assets/docs/extras/notes-alg-ds-greedy-algs-part2.pdf)
+    * [Algorithms & Data Structures - NP-Complete Problems](/assets/docs/extras/notes-alg-ds-np-complete-problems.pdf)
+    * [Algorithms & Data Structures - Sets](/assets/docs/extras/notes-alg-ds-sets.pdf)
+  * extras - design
+    * [Design and Interface - Intro](/assets/docs/extras/design/design-interface-intro.pdf)
+  * extras - various
+    * [Git & Heroku Hosting](/assets/docs/extras/various/git-heroku-setup.pdf)
+
 ##### Week 13 - 7th April 2020
 
   * course

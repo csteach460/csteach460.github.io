@@ -43,4 +43,4 @@ This class will meet at the following time and place,
 * final team demo
   * due Tuesday 21st April 2020 @ 4.15pm
 * final team report
-  * due Tuesday 28th April 2020
+  * due Tuesday 28th April 2020 @ 6.45pm

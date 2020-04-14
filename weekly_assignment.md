@@ -20,6 +20,41 @@ summary: weekly assignment for COMP 460
 
 Course assignments will be updated during the semester.
 
+##### Week 14 - 14th April 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * extras - final report outline
+    * [Final Report Outline](/assets/docs/2020/comp460-final-report-outline-2020.pdf)
+  * extras - algorithms and data structures
+    * [Algorithms & Data Structures - Greedy Algorithms - Part 1](/assets/docs/extras/notes-alg-ds-greedy-algs-part1.pdf)
+    * [Algorithms & Data Structures - Greedy Algorithms - Part 2](/assets/docs/extras/notes-alg-ds-greedy-algs-part2.pdf)
+    * [Algorithms & Data Structures - NP-Complete Problems](/assets/docs/extras/notes-alg-ds-np-complete-problems.pdf)
+    * [Algorithms & Data Structures - Sets](/assets/docs/extras/notes-alg-ds-sets.pdf)
+  * extras - design
+    * [Design and Interface - Intro](/assets/docs/extras/design/design-interface-intro.pdf)
+  * extras - various
+    * [Git & Heroku Hosting](/assets/docs/extras/various/git-heroku-setup.pdf)
+* Review this week's [videos and material](/videos)
+* Review this week's [bibliography](/bibliography) links and material
+* Review this week's source code examples,
+  * [GitHub - Source](https://github.com/csteach460/source/tree/master/week14)
+* Review the final report outline
+  * [Final Report Outline](/assets/docs/2020/comp460-final-report-outline-2020.pdf)
+* Please prepare your group's **project presentation** for Tuesday 21st April 2020 @ 4.15pm
+  * as detailed in previous classes, this presentation should be an outline and demo of your final group project
+  * please consult the [coursework](/coursework) page for further details
+    * further details may also be found on pages 2 and 3 of this week's class notes
+  * each presentation should be approximately 10 minutes in length
+* Please choose your group's preferred *presentation* format using the following form
+  * [Final Presentation - Select Presentation Format](https://forms.gle/Rm4CBE19DZQ2ujz57)
+  * options include
+    * asynchronous - a recorded video of the group's Final project demo and presentation
+    * synchronous - a live, Zoom based presentation during regular scheduled class hours
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 ##### Week 13 - 7th April 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
