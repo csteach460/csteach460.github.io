@@ -20,6 +20,10 @@ This material will be updated on a weekly basis.
 
 Course videos will be updated during the semester.
 
+##### Week 15 - 21st April 2020
+
+  * N/A - Final presentations
+
 ##### Week 14 - 14th April 2020
 
   * extras - algorithms - approximation
